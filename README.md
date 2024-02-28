@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" height="350">
 # 💫 About Me:
 <h5> I Am A Full Stack Developer Who Is Working On Improving Skills In FrontEnd And BackEnd Technologies. I am Also Exploring The World of Data Science </h5>
 
