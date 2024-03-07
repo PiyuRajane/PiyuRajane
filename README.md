@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3> I Am A Full Stack Developer Who Is Working On Improving Skills In FrontEnd And BackEnd Technologies. I am Also Exploring The World of Data Science </h3>
+<h3>I am a full-stack developer who is working on improving skills in frontend and backend technologies. I am also exploring the world of data science.</h3>
 
 
 <!-- ## 🌐 Socials: -->
